@@ -1,0 +1,17 @@
+@font-face {
+  font-family: Rubik;
+  src:
+    url(../fonts/Rubik-Regular.woff) format('woff'),
+    url(../fonts/Rubik-Regular.ttf) format('ttf') ;
+  font-weight: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Rubik;
+  src:
+    url(../fonts/Rubik-Medium.woff) format('woff'),
+    url(../fonts/Rubik-Medium.ttf) format('ttf') ;
+  font-weight: medium;
+  font-display: swap;
+}
